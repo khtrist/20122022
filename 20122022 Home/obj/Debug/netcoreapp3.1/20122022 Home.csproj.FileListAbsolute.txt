@@ -1,0 +1,14 @@
+D:\Visual Studi Code Academy Lessons or\20122022 Home\bin\Debug\netcoreapp3.1\20122022 Home.exe
+D:\Visual Studi Code Academy Lessons or\20122022 Home\bin\Debug\netcoreapp3.1\20122022 Home.deps.json
+D:\Visual Studi Code Academy Lessons or\20122022 Home\bin\Debug\netcoreapp3.1\20122022 Home.runtimeconfig.json
+D:\Visual Studi Code Academy Lessons or\20122022 Home\bin\Debug\netcoreapp3.1\20122022 Home.runtimeconfig.dev.json
+D:\Visual Studi Code Academy Lessons or\20122022 Home\bin\Debug\netcoreapp3.1\20122022 Home.dll
+D:\Visual Studi Code Academy Lessons or\20122022 Home\bin\Debug\netcoreapp3.1\20122022 Home.pdb
+D:\Visual Studi Code Academy Lessons or\20122022 Home\obj\Debug\netcoreapp3.1\20122022 Home.csproj.AssemblyReference.cache
+D:\Visual Studi Code Academy Lessons or\20122022 Home\obj\Debug\netcoreapp3.1\20122022 Home.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studi Code Academy Lessons or\20122022 Home\obj\Debug\netcoreapp3.1\20122022 Home.AssemblyInfoInputs.cache
+D:\Visual Studi Code Academy Lessons or\20122022 Home\obj\Debug\netcoreapp3.1\20122022 Home.AssemblyInfo.cs
+D:\Visual Studi Code Academy Lessons or\20122022 Home\obj\Debug\netcoreapp3.1\20122022 Home.csproj.CoreCompileInputs.cache
+D:\Visual Studi Code Academy Lessons or\20122022 Home\obj\Debug\netcoreapp3.1\20122022 Home.dll
+D:\Visual Studi Code Academy Lessons or\20122022 Home\obj\Debug\netcoreapp3.1\20122022 Home.pdb
+D:\Visual Studi Code Academy Lessons or\20122022 Home\obj\Debug\netcoreapp3.1\20122022 Home.genruntimeconfig.cache
